@@ -7,3 +7,4 @@ Furthermore, we will use two visualization techniques, Grad-CAM and Grad-CAM++, 
 
 In conclusion, this research paper aims to develop an effective CNN model for brain tumor detection, leveraging convolutional, maxpooling, flatten, and dense layers. Additionally, the validation techniques of Grad-CAM and Grad-CAM++ will be employed to enhance the interpretability and trustworthiness of the model's predictions. By addressing the critical challenges in brain tumor detection, this research endeavors to advance the field of medical imaging and contribute to improved patient care.
 
+learning github
